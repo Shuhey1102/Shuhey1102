@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shuhey1102
+- 👋 Hi, I’m Shuhey
 - 👀 I’m interested in creating amzing and exciting program by myself
 - 🌱 I’m currently learning Java,JavaScript,HTML,CSS,Python,Uipath,OutSystems
 - 💞️ I’m looking to collaborate on ...
