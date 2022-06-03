@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shuhey
+- 👋 Hi, I’m Shuhei
 - 👀 I’m interested in creating amzing and exciting program by myself
 - 🌱 I’m currently learning Java,JavaScript,HTML,CSS,Python,OutSystems
 - 💞️ I’m looking to collaborate on ...
