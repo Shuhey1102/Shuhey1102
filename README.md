@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shuhei
 - 👀 I’m interested in creating amzing and exciting program by myself
-- 🌱 I’m currently learning Java,JavaScript,HTML,CSS,Python,OutSystems
+- 🌱 I’m currently learning Java,JavaScript,HTML,CSS,Python,C#,typescript,VBA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... kajiwara.shuhei.1102kaji@gmail.com
 
